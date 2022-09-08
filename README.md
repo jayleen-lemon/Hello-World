@@ -1,2 +1,3 @@
 # Hello-World
-Assignment 1
+Assignment 0
+My name Jayleen and I'm a Computer Science Major
